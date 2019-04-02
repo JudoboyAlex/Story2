@@ -1,1 +1,2 @@
 This is Github training.
+This is fun.
